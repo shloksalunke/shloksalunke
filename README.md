@@ -117,7 +117,7 @@ Make Sure you Follow me so we can connect and build a better network 🤝💭
 - 🥇 **AINCAT 2025 — AIR 34,207**
 - 🌍 **TCS CodeVita Season 12 — Global Rank 3613**
 - 🛫 **Completed Virtual Internship — British Airways (Forage)**
-- 🟦 **AI & Data Analytics Intern — AICTE & Shell India**
+- 🟦 **Machine Learning Intern — AICTE & Shell India**
 - 🤖 **Generative AI Intern — National Academic Internship Council**
 - 🧠 **Built multiple AI/ML projects:**  
   - RAG App — AskMyPDF  
