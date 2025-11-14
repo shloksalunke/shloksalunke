@@ -55,27 +55,44 @@ Make Sure you Follow me so we can connect and build a better network 🤝💭
 
 <br><br>
 
+<h2 align="center"><img src="Assest/code.gif" height="20"/>  My Tech Stack  <img src="Assest/code.gif" height="20"/></h2>
+
 <table align="center">
+
 <tr>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="40"/><br>Python</td>
+
+<td align="center" width="96"><img src="Assest/sql-server.png" width="40"/><br>SQL</td>
+
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br>C++</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=sql" width="40"/><br>SQL</td>
+
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow" width="40"/><br>TensorFlow</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=keras" width="40"/><br>Keras</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br>FastAPI</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=streamlit" width="40"/><br>Streamlit</td>
+
+<td align="center" width="96"><img src="Assest/icons8-keras-logo-48.png" width="40"/><br>Keras</td>
+
+<td align="center" width="96"><img src="Assest/icons8-power-bi-logo.svg" width="40"/><br>Power BI</td>
+
+<td align="center" width="96"><img src="Assest/icons8-tableau-software.svg" width="40"/><br>Tableau</td>
 </tr>
 
 <tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=streamlit" width="40"/><br>Streamlit</td>
+
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br>FastAPI</td>
+
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="40"/><br>Linux</td>
+
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="40"/><br>Docker</td>
+
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="40"/><br>Git</td>
+
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="40"/><br>GitHub</td>
+
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br>VS Code</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=powerbi" width="40"/><br>Power BI</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=tableau" width="40"/><br>Tableau</td>
 </tr>
+
 </table>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 
