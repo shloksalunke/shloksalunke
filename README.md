@@ -143,7 +143,7 @@ Make Sure you Follow me so we can connect and build a better network 🤝💭
 
 <table align="center">
 <tr>
-<td align="center"><a href="https://www.linkedin.com/in/shlok-salunke-4947b429b"><img src="Assest/linkedin.gif" width="40"/><br>LinkedIn</a></td>
+<td align="center"><a href="https://www.linkedin.com/in/shlok-salunke-4947b429b"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8kr3Tm8cD11iUmmHWr4clS1sX9E4y6WMWqg&s" width="40"/><br>LinkedIn</a></td>
 <td align="center"><a href="https://github.com/shloksalunke"><img src="https://skillicons.dev/icons?i=github" width="40"/><br>GitHub</a></td>
 <td align="center"><a href="mailto:shloksalunke56@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="40"/><br>Gmail</a></td>
 </tr>
